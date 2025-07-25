@@ -4,3 +4,4 @@ Daily solve one problem <br/>
 23-07-2025 i have solved binarysearch problem<br/>
 24-07-2025 i have solved reverse string problem<br/>
 25-07-2025 i have solved unique occurances problem<br/>
+           i have solved single number problem<br/>
