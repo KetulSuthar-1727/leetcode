@@ -9,3 +9,4 @@ Daily solve one problem <br/>
 27-07-2025 revised previous quetions and solved some similar questions<br/>
 28-07-2025 i have solved find first and last element in a sorted array problem<br/>
 29-07-2025 i have solved sqrt oo number <br/>
+01-08-2025 i have solved book allocation problem <br/>
