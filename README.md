@@ -10,3 +10,6 @@ Daily solve one problem <br/>
 28-07-2025 i have solved find first and last element in a sorted array problem<br/>
 29-07-2025 i have solved sqrt oo number <br/>
 01-08-2025 i have solved book allocation problem <br/>
+02-08-2025 solved some questions of coding ninjas <br/>
+03-08-2025 broke the consistancy <br/>
+04-08-2025 i have solved reverse an array using two pointer and merge two sorted array problem<br/>
