@@ -13,3 +13,6 @@ Daily solve one problem <br/>
 02-08-2025 solved some questions of coding ninjas <br/>
 03-08-2025 broke the consistancy <br/>
 04-08-2025 i have solved reverse an array using two pointer and merge two sorted array problem<br/>
+05-08-2025 i have solved move zeroes problem using two pointers approch<br/>
+06-08-2025 i have solved rotate array problem using the mod(reminder)<br/>
+07-08-2025 i have solved sum of array problem using the fetching element technique<br/>
