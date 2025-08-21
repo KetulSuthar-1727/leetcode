@@ -16,3 +16,6 @@ Daily solve one problem <br/>
 05-08-2025 i have solved move zeroes problem using two pointers approch<br/>
 06-08-2025 i have solved rotate array problem using the mod(reminder)<br/>
 07-08-2025 i have solved sum of array problem using the fetching element technique<br/>
+Took a long break from the leetcode<br>
+solved many problems on conding ninja's and learned many new concepts <br>
+21-08-2025 i have solved wave print a matrix and spiral print a matrix<br>
