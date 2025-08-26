@@ -19,3 +19,4 @@ Daily solve one problem <br/>
 Took a long break from the leetcode<br>
 solved many problems on conding ninja's and learned many new concepts <br>
 21-08-2025 i have solved wave print a matrix and spiral print a matrix<br>
+26-08-2025 i have solved ekospoj and prataspoj<br>
