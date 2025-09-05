@@ -21,3 +21,4 @@ solved many problems on conding ninja's and learned many new concepts <br>
 21-08-2025 i have solved wave print a matrix and spiral print a matrix<br>
 26-08-2025 i have solved ekospoj and prataspoj<br>
 01-09-2025 i have solved palindromic substring ,maximum wealth, minimum time diffrence problems<br>
+05-0902025 i have solved valid anagram problem using the hashmap <br>
