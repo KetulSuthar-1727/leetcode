@@ -23,4 +23,4 @@ solved many problems on conding ninja's and learned many new concepts <br>
 01-09-2025 i have solved palindromic substring ,maximum wealth, minimum time diffrence problems<br>
 05-09-2025 i have solved valid anagram using the hashmap,reverse only letters,compress the string using the hashmap , wave print a matrix,search in 2d matrix ,longest commom prefix ,reverse only vowels problem <br>
 07-09-2025 i have solved isomorphic string problem<br>
-08-09-2025 i have solved group anagram problem <br>
+08-09-2025 i have solved group anagram , find the first occurance of the substring  problem<br>
