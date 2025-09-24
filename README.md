@@ -25,3 +25,5 @@ solved many problems on conding ninja's and learned many new concepts <br>
 07-09-2025 i have solved isomorphic string problem<br>
 08-09-2025 i have solved group anagram , find the first occurance of the substring  problem<br>
 13-09-2025 solved all 23 super easy problems on leetcode<br>
+14-09-2025 to 22-09-2025 exam preparation <br>
+23-09-2025 i have solved koko eating banana and boats to save people problem <br>
