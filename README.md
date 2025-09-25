@@ -28,3 +28,4 @@ solved many problems on conding ninja's and learned many new concepts <br>
 14-09-2025 to 22-09-2025 exam preparation <br>
 23-09-2025 i have solved koko eating banana and boats to save people problem <br>
 24-09-2025 i have solved 19 problems of coding ninjas<br>
+25-09-2025 i have solved reverse image problem and remove duplicate2 problem<br>
