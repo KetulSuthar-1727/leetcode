@@ -33,3 +33,4 @@ solved many problems on conding ninja's and learned many new concepts <br>
 27-09-2025 i have solved romanToInteger and BuyAndSellStocks problem and backspaceCompare Prblem<br>
 28-09-2025 i have solved happy number and find the difference problem <br>
 29-09-2025 i have solved is string subsequence ,assign cookies and intersection of two arrays 2 problem <br>
+30-09-2025 i have solved reverse string in words problem<br>
